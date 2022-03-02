@@ -21,3 +21,16 @@
 
 * My struggle with this assignment was not being sure i added the modules correctly at first unit things were cleared.
 
+# npm packages
+
+* [Tailwindcss](https://tailwindcss.nuxtjs.org/tailwind/config/)
+
+* [Anime](https://github.com/ivodolenc/nuxt-animejs)
+
+* [Image](https://image.nuxtjs.org/api/$img)
+
+* [Storyblok](https://github.com/storyblok/storyblok-nuxt)
+
+* I chose to add [anime](https://github.com/ivodolenc/nuxt-animejs)
+
+* Anime is the most popular module and that is what most people want. I personally also prefer anime, so that is why i went with it.
