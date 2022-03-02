@@ -1,7 +1,7 @@
 # CPNT201-a4
 ### Assignment 4 - Nuxt Framework Setup
 
-## Jibril
+## Jibril Adem
 
 # Code Journal 
 
